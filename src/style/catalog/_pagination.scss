@@ -1,0 +1,17 @@
+.pagination {
+	width: 100%;
+
+	&__list {
+		display: flex;
+		gap: 22px;
+		width: 351px;
+		height: 36px;
+		margin: 0 auto;
+	}
+
+	&__item {
+		font-weight: 400;
+		font-size: 18px;
+		line-height: 22px;
+	}
+}
